@@ -1,0 +1,13 @@
+.nav-button {
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 150px;
+}
+
+.bottom-navbar {
+  background-color: white;
+}
+
+form {
+  max-width: 500px;
+}
